@@ -16,7 +16,6 @@ module Text.Inflections.Ordinal
   , ordinal )
 where
 
-import Data.Monoid ((<>))
 import Data.Text (Text)
 import qualified Data.Text as T
 
